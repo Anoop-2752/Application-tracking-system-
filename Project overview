@@ -1,0 +1,7 @@
+This Application Tracking System (ATS) machine learning project using Streamlit as a framework for building the interface. It integrates features like handling PDF uploads and utilizes Google Generative AI for processing inputs and generating content based on prompts. The code includes:
+
+Handling file uploads (e.g., PDFs)
+Converting PDF to images (using pdf2image and PIL)
+Encoding images to Base64 format
+Communicating with Google Generative AI (Gemini-1.5-flash) for generating responses based on the uploaded document and user input.
+This ATS likely aims to process resumes or job applications, analyze their content, and generate outputs such as summaries or predictions about applicant fit based on the document data.
