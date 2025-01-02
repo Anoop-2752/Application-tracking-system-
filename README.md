@@ -9,13 +9,13 @@
 
 - Upload resumes in PDF format.
 
-Extract key information such as skills, experience, and education.
+- Extract key information such as skills, experience, and education.
 
-Google Generative AI Integration:
+**Google Generative AI Integration:**
 
-Analyze uploaded documents using Gemini-1.5 AI capabilities.
+- Analyze uploaded documents using Gemini-1.5 AI capabilities.
 
-Generate intelligent responses to user queries based on resume content.
+- Generate intelligent responses to user queries based on resume content.
 
 User-Friendly Interface:
 
