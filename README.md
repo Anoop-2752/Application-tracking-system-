@@ -17,19 +17,19 @@
 
 - Generate intelligent responses to user queries based on resume content.
 
-User-Friendly Interface:
+**User-Friendly Interface:**
 
-Developed with Streamlit for simplicity and interactivity.
+- Developed with Streamlit for simplicity and interactivity.
 
-Support for real-time data processing and result visualization.
+- Support for real-time data processing and result visualization.
 
-PDF to Image Conversion:
+**PDF to Image Conversion:**
 
-Converts PDFs into images for enhanced content analysis.
+-Converts PDFs into images for enhanced content analysis.
 
-Custom Query Handling:
+**Custom Query Handling:**
 
-Answer user questions dynamically by extracting relevant document insights.
+- Answer user questions dynamically by extracting relevant document insights.
 
 
 
